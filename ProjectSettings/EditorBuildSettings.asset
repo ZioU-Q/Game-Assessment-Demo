@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/SampleScene.unity
+    guid: 8c9cfa26abfee488c85f1582747f6a02
+  - enabled: 1
+    path: Assets/2D Fantasy sprite bundle/Forest  V2.0/Demo scene/Forest.unity
+    guid: f4104a1d329901d459d4594af7e4b771
+  - enabled: 1
+    path: Assets/2D Fantasy sprite bundle/Dungeon pack/Demo scene/Dungeon.unity
+    guid: eda7f6eec91532a4692776c0af2340f3
+  - enabled: 1
+    path: Assets/Scenes/sc.unity
+    guid: 2f826d051665775488807428c2eb7ece
+  m_configObjects:
+    com.unity.addressableassets: {fileID: 11400000, guid: f2b2bce7eaec5a445911e2a9fa421342, type: 2}
+    com.unity.dt.app-ui: {fileID: 11400000, guid: 1b1c20d82303e4b5781c3ef50ac1449f, type: 2}
+    com.unity.input.settings: {fileID: 11400000, guid: 095970080fbc69b43811598021e96742, type: 2}
+    com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
